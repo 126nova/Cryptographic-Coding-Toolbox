@@ -26,7 +26,7 @@ zh-hk（繁体中文）
 
 ### 方法1：
 
-#### 使用[“cx_Freeze”]([cx-Freeze · PyPI](https://pypi.org/project/cx-Freeze/))库进行打包python文件，在命令提示符（cmd）中输入：
+#### 使用[cx-Freeze](https://pypi.org/project/cx-Freeze/)库进行打包python文件，在命令提示符（cmd）中输入：
 
 ```
 pip install cx_Freeze
@@ -60,4 +60,4 @@ python setup.py build
 
 如果出现bug，请发邮件给***silver03@qq.com***邮箱:)
 
-欢迎关注[作者的哔哩哔哩]([Silver03_的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/2043795963))！
+欢迎关注[作者的哔哩哔哩](https://space.bilibili.com/2043795963)！
