@@ -68,7 +68,7 @@ python setup.py build
 
 - 多功能
 
-  ![](.\images\v1.0.0.png)
+<img src=".\images\v1.0.0.png" style="zoom:100%;" />
 
 ## 联系方式
 
