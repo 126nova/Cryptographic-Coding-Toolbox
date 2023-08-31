@@ -1,7 +1,7 @@
 # Cryptographic Coding Toolbox（加密编码工具箱）
 你可以在这个小工具中将一些常见的加密编码进行加密与解密
 
-<img src="D:\Cryptographic-Coding-Toolbox\images\icon.ico" style="zoom:50%;" />
+<img src=".\images\icon.ico" style="zoom:50%;" />
 
 ---
 
@@ -68,7 +68,7 @@ python setup.py build
 
 - 多功能
 
-  ![](D:\Cryptographic-Coding-Toolbox\images\v1.0.0.png)
+  ![](.\images\v1.0.0.png)
 
 ## 联系方式
 
