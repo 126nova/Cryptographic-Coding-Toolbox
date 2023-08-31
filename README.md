@@ -29,6 +29,8 @@
 
 繁體中文(zh-hk)
 
+English
+
 ## 打包教程：
 
 ###### tips：请使用python3或以上版本
@@ -61,8 +63,12 @@ python setup.py build
 ## 工具特色
 
 - 简洁ui界面
+
 - 可自由选择加密编码
+
 - 多功能
+
+  ![](D:\Cryptographic-Coding-Toolbox\images\v1.0.0.png)
 
 ## 联系方式
 
