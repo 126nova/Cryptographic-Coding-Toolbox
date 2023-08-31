@@ -1,0 +1,36 @@
+Cryptographic Coding Toolbox
+BIN
+Copy Finish!
+Finish!
+Failed！
+Finish!
+Failed！
+Copy Finish!
+
+Code:
+Enter text above
+encode
+decode
+Export
+copy
+auto copy
+reverse mode
+HEX
+Github
+Language
+It takes effect after restarting the program
+OCT
+Caesar
+offset:
+random mode
+SHA1
+SHA224
+SHA256
+SHA384
+SHA512
+MD5
+由于不支持显示emoji，所以base100编码只开放解密
+
+
+
+

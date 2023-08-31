@@ -1,0 +1,7 @@
+build\ -- 打包的文件
+images\ -- 图片文件
+languages\ -- 语言文件
+build.bat -- 一键打包
+main.py -- 主要文件，运行用的
+README.md -- Github页面的介绍
+setup.py -- 打包参数
